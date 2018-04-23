@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindService", "NorthwindService\NorthwindService.csproj", "{7AADD8DA-9594-4038-BFCD-145368359955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpressWalkthrough", "DevExpressWalkthrough\DevExpressWalkthrough.csproj", "{E6594676-797D-4CF4-8A1C-D6EE1A7A9312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AADD8DA-9594-4038-BFCD-145368359955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AADD8DA-9594-4038-BFCD-145368359955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AADD8DA-9594-4038-BFCD-145368359955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AADD8DA-9594-4038-BFCD-145368359955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6594676-797D-4CF4-8A1C-D6EE1A7A9312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6594676-797D-4CF4-8A1C-D6EE1A7A9312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6594676-797D-4CF4-8A1C-D6EE1A7A9312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6594676-797D-4CF4-8A1C-D6EE1A7A9312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
