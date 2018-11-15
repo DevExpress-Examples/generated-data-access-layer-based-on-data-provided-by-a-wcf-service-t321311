@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [NorthwindEntities.Context.cs](./CS/NorthwindService/NorthwindEntities.Context.cs)
+* **[NorthwindWcfDataService.svc.cs](./CS/NorthwindService/NorthwindWcfDataService.svc.cs)**
+<!-- default file list end -->
 # Generated Data Access Layer Based On Data Provided By a WCF Service
 
 
